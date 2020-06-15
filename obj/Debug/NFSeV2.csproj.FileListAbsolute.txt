@@ -1,0 +1,15 @@
+D:\Projetos\NFSeV2\C#\NFSeV2\bin\Debug\NFSeV2.exe.config
+D:\Projetos\NFSeV2\C#\NFSeV2\bin\Debug\NFSeV2.exe
+D:\Projetos\NFSeV2\C#\NFSeV2\bin\Debug\NFSeV2.pdb
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\Interop.NFSeDataSetX.dll
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\Interop.NFSeRESTX.dll
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\Interop.NFSeSignerX.dll
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\Interop.NFSeX.dll
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.csproj.ResolveComReference.cache
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.frmPrincipal.resources
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.Properties.Resources.resources
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.csproj.GenerateResource.cache
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.csproj.CoreCompileInputs.cache
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.exe
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.pdb
+D:\Projetos\NFSeV2\C#\NFSeV2\obj\Debug\NFSeV2.csprojAssemblyReference.cache
